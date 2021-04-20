@@ -1,3 +1,3 @@
-# CSV Thread Reader
+# multithreaded CSV reader
 
 Created by Shumka Evgenii
